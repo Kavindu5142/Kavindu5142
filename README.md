@@ -15,4 +15,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Kavindu Kanchana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kavindu Kanchana" /></a></p><br><br>
 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
