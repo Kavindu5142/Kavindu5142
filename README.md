@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently working on **Networking**
+- 🌱 I’m currently working on **Computer Networking**
 
 - 🧑‍🎓 I’m an Undergraduate at **ESOFT Uni**
 
